@@ -85,9 +85,9 @@ global.typemenu = process.env.MENU_DESIGN || 'v4' // menu type 'v1' => 'v8'
 //________________________________________________________________________________________________________
 global.typereply = process.env.REPLY_TYPE || 'v2' // reply type 'v1' => 'v3'
 //________________________________________________________________________________________________________
-global.autoblocknumber = process.env.AUTO_BAN || '212' //set autoblock country code
+global.autoblocknumber = process.env.AUTO_BAN || '880' //set autoblock country code
 //________________________________________________________________________________________________________
-global.antiforeignnumber = process.env.AUTO_BLOCK || '212' //set anti foreign number country code
+global.antiforeignnumber = process.env.AUTO_BLOCK || '880' //set anti foreign number country code
 //________________________________________________________________________________________________________
 global.welcome = process.env.WELCOME_MSG || true //welcome/left in groups
 //________________________________________________________________________________________________________
